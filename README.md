@@ -1,4 +1,4 @@
-![cv](https://github.com/BartoszJarocki/cv/assets/1017620/79bdb9fc-0b20-4d2c-aafe-0526ad4a71d2)
+<!-- ![cv](https://github.com/BartoszJarocki/cv/assets/1017620/79bdb9fc-0b20-4d2c-aafe-0526ad4a71d2) -->
 
 # Minimalist CV
 
@@ -16,7 +16,7 @@ Built with Next.js and shadcn/ui, deployed on Vercel.
 
 # Getting Started Locally
 
-1. Clone this repository to your local machine:
+1. Clone the original repository to your local machine:
 
    ```bash
    git clone https://github.com/BartoszJarocki/cv.git
@@ -44,7 +44,7 @@ Built with Next.js and shadcn/ui, deployed on Vercel.
 
 # Run with Docker
 
-Build the containewr
+Build the container
 
 ```
 docker compose build
@@ -59,7 +59,7 @@ docker compose up -d
 Stop the Container
 
 ```
-docker compose down 
+docker compose down
 ```
 
 # License
