@@ -44,7 +44,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Full-stack developer intern",
       start: "June 2021",
-      end: "Jan 2020",
+      end: "Jan 2022",
       description: "TODO",
     },
     {
