@@ -73,12 +73,198 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Riot.ml",
+      techStack: ["Open-source"],
+      description:
+        "Riot.ml is an Ocaml library that implements BEAM into the Ocaml workflow",
+      link: {
+        label: "Riot.ml",
+        href: "https://riot.ml",
+      },
+    },
+    {
+      title: "Polybar-weather-module",
+      techStack: ["Open-source", "Python", "Open weather api"],
+      description:
+        "Polybar-weather-module, a addon for polybar that shows you temp, humidty and etc. at your location.",
+      link: {
+        label: "Polybar",
+        href: "https://github.com/SushiJ/polybar-weather-module",
+      },
+    },
+    {
       title: "Win98-paint",
       techStack: ["Side Project", "TypeScript", "React", "Vite", "RTK"],
-      description: "A platform to build and grow your online business",
+      description:
+        "A drawing application that let's you download your beautiful art pieces",
       link: {
         label: "win98-paint",
         href: "https://win98-paint.vercel.app/",
+      },
+    },
+    {
+      title: "Portfolio",
+      techStack: ["Side Project", "Astro", "Vite", "Tailwind"],
+      description: "My personal website. Built with Astro",
+      link: {
+        label: "github.com",
+        href: "https://sushij.github.io/portfolio",
+      },
+    },
+    {
+      title: "Work journal",
+      techStack: [
+        "Side Project",
+        "Remix",
+        "Prisma",
+        "Typescript",
+        "Supabase",
+        "Tailwind",
+      ],
+      description: "An online work documenting application built with remix",
+      link: {
+        label: "Work journal",
+        href: "https://work-journal-remix.vercel.app",
+      },
+    },
+    {
+      title: "Ecommerce store",
+      techStack: [
+        "Side Project",
+        "React",
+        "Typescript",
+        "RTK",
+        "Fastify",
+        "Mongo",
+        "Typegoose",
+        "Bootstrap",
+        "Vite",
+        "Paypal",
+      ],
+      description:
+        "Ecommerce store build with react & fastify, integrates paypal for payments",
+      link: {
+        label: "github.com",
+        href: "https://github.com/SushiJ/ecom",
+      },
+    },
+    {
+      title: "Dashboard",
+      techStack: [
+        "React",
+        "Typescript",
+        "MUI",
+        "Nivo",
+        "RTK",
+        "Express",
+        "Mongo",
+        "Typegoose",
+      ],
+      description:
+        "Dashboard, a data visualizer application. Charts and data tables using MUI & Nivo-charts",
+      link: {
+        label: "github.com",
+        href: "https://github.com/SushiJ/react-dash",
+      },
+    },
+    {
+      title: "Screen-grab",
+      techStack: ["EJS", "Express", "Puppeteer"],
+      description: "Screen-grab, a web screenshot taking application",
+      link: {
+        label: "hackervues",
+        href: "https://hackervues.netlify.app/",
+      },
+    },
+    {
+      title: "Celestial explorer",
+      techStack: [
+        "Side Project",
+        "Preact",
+        "TypeScript",
+        "Mongo",
+        "Typegoose",
+        "Express",
+        "Vite",
+      ],
+      description:
+        "A web app to track/manage space launches. Stay updated on past private & SpaceX launches, and cancel launches with a click.",
+      link: {
+        label: "CE",
+        href: "https://github.com/SushiJ/space-launches-fs",
+      },
+    },
+    {
+      title: "Hackervues",
+      techStack: ["Vue", "Tailwind"],
+      description: "Hackernews web client built with vue",
+      link: {
+        label: "hackervues",
+        href: "https://hackervues.netlify.app/",
+      },
+    },
+    {
+      title: "Vue notes",
+      techStack: ["Vue", "Go", "Tailwind"],
+      description: "Vue notes, a note taking app built with vue & go.",
+      link: {
+        label: "hackervues",
+        href: "https://hackervues.netlify.app/",
+      },
+    },
+    {
+      title: "Pokedex",
+      techStack: ["Svelte", "Tailwind"],
+      description: "Pokedex, a web client for pokemon-api built with svelte",
+      link: {
+        label: "hackervues",
+        href: "https://hackervues.netlify.app/",
+      },
+    },
+    {
+      title: "Snippets",
+      techStack: ["Side Project", "Go", "Templ", "WIP"],
+      description:
+        "Snippets, a go web application that let's you share snippets of what so ever you wanna share with the world",
+      link: {
+        label: "TODO",
+        href: "https://github.com/SushiJ/snippet-go",
+      },
+    },
+    {
+      title: "Zomato clone",
+      techStack: ["React", "Express", "Mongo", "Tailwind"],
+      description: "Zomato clone application built with react & express",
+      link: {
+        label: "Zomato",
+        href: "https://github.com/SushiJ/Zomato",
+      },
+    },
+    {
+      title: "Bookmyshow clone",
+      techStack: ["React", "Tailwind"],
+      description: "Bookmyshow clone application built with react",
+      link: {
+        label: "Bookmyshow",
+        href: "https://book-my-show-clone-nu.vercel.app/",
+      },
+    },
+    {
+      title: "Airbnb clone",
+      techStack: ["Next", "Tailwind"],
+      description: "Airbnb clone application built with react",
+      link: {
+        label: "TODO",
+        href: "https://airbnb-c.vercel.app/",
+      },
+    },
+    {
+      title: "Hulu clone",
+      techStack: ["React", "Tailwind"],
+      description: "Hulu clone application built with react",
+      link: {
+        label: "Hulu",
+        href: "https://hulu-build-sepia.vercel.app",
       },
     },
     // {
@@ -92,15 +278,6 @@ export const RESUME_DATA = {
     //     href: "https://monito.dev/",
     //   },
     // },
-    {
-      title: "Portfolio",
-      techStack: ["Side Project", "Astro", "Vite"],
-      description: "My personal website. Built with Astro",
-      link: {
-        label: "github.com",
-        href: "https://sushij.github.io/portfolio",
-      },
-    },
     // {
     //   title: "Minimal",
     //   techStack: ["Side Project", "Next.js", "Puppeteer"],
