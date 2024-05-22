@@ -43,7 +43,7 @@ export const RESUME_DATA = {
       link: "",
       badges: ["Remote"],
       title: "Full-stack developer intern",
-      start: "June 2021",
+      start: "July 2021",
       end: "Jan 2022",
       description: "TODO",
     },
@@ -109,6 +109,15 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://sushij.github.io/portfolio",
+      },
+    },
+    {
+      title: "Conway's game of life",
+      techStack: ["React", "Pico"],
+      description: "Conway's game of life on react",
+      link: {
+        label: "React conway",
+        href: "https://react-conway.vercel.app",
       },
     },
     {
