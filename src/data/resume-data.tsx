@@ -121,6 +121,15 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "hop music",
+      techStack: ["Side Project", "React", "Typescript", "Vanilla Extract"],
+      description: "Web based music player",
+      link: {
+        label: "music",
+        href: "https://hop-music.vercel.app",
+      },
+    },
+    {
       title: "Work journal",
       techStack: [
         "Side Project",
