@@ -4,9 +4,11 @@ export const RESUME_DATA = {
   name: "Sushant Sharma",
   initials: "SS",
   location: "Bangalore, IN",
-  about: "Full Stack Engineer who loves learning new things",
+  about: "Full Stack Engineer driven by curiosity",
   summary:
-    "As Full Stack Engineer, I work mostly with TypeScript, React, Node.js and dabble around with different technologies occasionally. I have about an year worth of experience in working remotely with companies",
+    "A full-stack developer driven by curiosity for learning and a deep love for building innovative solutions. I like to constantly seek out new challenges and opportunities to expand my skill set. Whether it's mastering the intricacies of database management systems or diving into the latest technologies, I thrive on the thrill of discovery and the satisfaction of turning ideas into reality",
+
+  // "As Full Stack Engineer, I work mostly with TypeScript, React, Node.js and dabble around with different technologies occasionally. I have about an year worth of experience in working remotely with companies",
   avatarUrl: "https://avatars.githubusercontent.com/u/74211783?v=4",
   personalWebsiteUrl: "https://sushij.github.io/portfolio/",
   contact: {
