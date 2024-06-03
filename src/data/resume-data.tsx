@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   location: "Bangalore, IN",
   about: "Full Stack Engineer driven by curiosity",
   summary:
-    "A full-stack developer driven by curiosity for learning and a deep love for building innovative solutions. I like to constantly seek out new challenges and opportunities to expand my skill set. Whether it's mastering the intricacies of database management systems or diving into the latest technologies, I thrive on the thrill of discovery and the satisfaction of turning ideas into reality",
+    "A full-stack developer driven by curiosity for learning and a deep love for building innovative solutions. I like to constantly seek out new challenges and opportunities to expand my skill set. Whether it's mastering the intricacies of database management systems or diving into the latest technologies, I thrive on the thrill of discovery and the satisfaction of turning ideas into reality.",
 
   // "As Full Stack Engineer, I work mostly with TypeScript, React, Node.js and dabble around with different technologies occasionally. I have about an year worth of experience in working remotely with companies",
   avatarUrl: "https://avatars.githubusercontent.com/u/74211783?v=4",
@@ -47,7 +47,12 @@ export const RESUME_DATA = {
       title: "Full-stack developer intern",
       start: "July 2021",
       end: "Jan 2022",
-      description: "TODO",
+      description: [
+        "Built Full-Stack React applications, utilizing industry best practices to ensure high-quality code while working with libraries like mongoose, typescript, React, Redux etc.",
+        "Gained hands on experience while working with various technologies and frameworks such as expressjs, mongoose, React, docker, typescript etc.",
+        "Created, programmed, modified, and debugged application programs, ranging from simple to highly complex ones.",
+        "Sharpened knowledge while working with backend javascript frameworks like Nodejs and databases like MongoDB and PostgreSQL.",
+      ],
     },
     {
       company: "Iventor initiative pvt. ltd.",
@@ -56,7 +61,13 @@ export const RESUME_DATA = {
       title: "Front-end Developer intern",
       start: "Jan 2021",
       end: "April 2021",
-      description: "TODO",
+      description: [
+        "Successful Migration of their existing code-base from HTML to ReactJs for an e-learning platform application using ReactJS and reusable components.",
+        "Implemented designs for other platforms example: 1. A mental health platform where people can book appointments regarding their issues / problems. 2. A platform for people to find mentors for their respective fields.",
+        "Collaborated with members of the product team to execute the development of new features.",
+        "Provided recommendations for new technology integration that were aligned with the business goals and appropriate for the company's needs.",
+        "Mentored and guided a team of three frontend developers interns, enabling them to attain professional and personal growth.",
+      ],
     },
   ],
   skills: [
