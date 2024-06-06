@@ -82,7 +82,14 @@ export const RESUME_DATA = {
     "Elixir",
     "Java",
     "Linux",
-    "Vim",
+    "Neovim/Vim",
+    "Python",
+    "Django",
+    "flask",
+    "SQL",
+    "Mongo",
+    "Typegoose",
+    "Tailwind",
   ],
   projects: [
     {
