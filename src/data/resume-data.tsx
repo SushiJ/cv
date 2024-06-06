@@ -204,7 +204,7 @@ export const RESUME_DATA = {
       description: "Screen-grab, a web screenshot taking application",
       link: {
         label: "hackervues",
-        href: "https://hackervues.netlify.app/",
+        href: "https://github.com/SushiJ/Web-Screenshot",
       },
     },
     {
@@ -239,8 +239,8 @@ export const RESUME_DATA = {
       techStack: ["Vue", "Go", "Tailwind"],
       description: "Vue notes, a note taking app built with vue & go.",
       link: {
-        label: "hackervues",
-        href: "https://hackervues.netlify.app/",
+        label: "Vue notes",
+        href: "https://github.com/SushiJ/vue-notes",
       },
     },
     {
@@ -248,8 +248,8 @@ export const RESUME_DATA = {
       techStack: ["Svelte", "Tailwind"],
       description: "Pokedex, a web client for pokemon-api built with svelte",
       link: {
-        label: "hackervues",
-        href: "https://hackervues.netlify.app/",
+        label: "Pokedex",
+        href: "https://svelte-pokedex-chi.vercel.app/",
       },
     },
     {
