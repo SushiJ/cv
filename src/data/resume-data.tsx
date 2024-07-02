@@ -75,6 +75,7 @@ export const RESUME_DATA = {
     "JavaScript",
     "React/Next.js/Remix",
     "Vue",
+    "Tailwind",
     "Node.js",
     "Redux",
     "RTK",
@@ -89,7 +90,6 @@ export const RESUME_DATA = {
     "SQL",
     "Mongo",
     "Typegoose",
-    "Tailwind",
   ],
   projects: [
     {
@@ -138,6 +138,15 @@ export const RESUME_DATA = {
       link: {
         label: "React conway",
         href: "https://react-conway.vercel.app",
+      },
+    },
+    {
+      title: "Identiek",
+      techStack: ["Open-source", "Elixir", "egd"],
+      description: "Identiek is an identicon generator written in Elixir",
+      link: {
+        label: "Identiek",
+        href: "https://github.com/SushiJ/identiek",
       },
     },
     {
